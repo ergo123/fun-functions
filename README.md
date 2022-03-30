@@ -2,13 +2,19 @@
 
 ## Prerequisites
 
-NodeJS should be installed and added to PATH. To open configured repl run 
+NodeJS should be installed and added to PATH. To open configured repl run and to do exercise on your own run
 
 ```
 node lambda.js
 ```
 
 (it disables command previews which is annoying in this exercise)
+
+All the function are already declared in `lambda-ready.js`
+
+```
+node lambda-ready.js
+```
 
 ## Functions
 
